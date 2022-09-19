@@ -134,7 +134,6 @@ namespace HardSort2
                 
       
                 PrintArray(a);
-                //int [] m = Array2D_1D(ref a);
                 SampleSort(ref a);
                 //a =  Array1D_2D(ref m, (int) columns, (int) rows);
                 Console.WriteLine("Отсортированный массив: ");

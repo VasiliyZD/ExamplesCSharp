@@ -13,7 +13,7 @@ using System.Linq;
 
 namespace Zadacha_41
 {
-    class Program
+    class Program41
     {
        
         static int g0(int [] a){

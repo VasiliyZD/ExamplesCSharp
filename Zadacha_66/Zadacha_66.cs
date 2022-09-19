@@ -10,12 +10,9 @@ namespace Zadacha_66
                 tmp = n;
                 n = m;
                 m = tmp;
-            }
-            int summ = 0; 
-            for (int i = m; i<=n; i++){
-                summ = summ + i;
-            }
-            return summ;
+            };
+            if (m==n) return m; 
+            return m + SummNaturalMN(m+1, n);
         }
 
         static void Main(string[] args)

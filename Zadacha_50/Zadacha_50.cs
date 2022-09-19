@@ -82,7 +82,7 @@ namespace Zadacha_50
                 Console.Write("Введите элемент который нужно найти в таблице, и мы выведем его позицию - строку и колонку: ");
                 element = Int32.Parse(Console.ReadLine());
                 if (findElem(a, element, out row, out col)){
-                       Console.WriteLine($"Элемент {element} найден в позиции [{row}, {col}]");
+                       Console.WriteLine($"Элемент {element} найден в позиции: [{row}, {col}]");
                 }else{
                        Console.WriteLine("Такого элемента нет");
                 }
