@@ -18,15 +18,16 @@ namespace Zadacha_64
                 n = m;
                 m = tmp;
             }
-            for (int i = m; i<=n; i++){
-                Console.Write(i); 
-                if (i<n) {
-                    Console.Write(",");
-                }
-                else{
-                    Console.WriteLine();
-                }    
+            if (m<n) {
+                Console.Write(m);
+                Console.Write(", "); 
+                PrintNaturalMN(m +1, n);
+                return;
             }
+                Console.WriteLine(m);
+                return;
+                    
+            
         }
 
         static void Main(string[] args)
