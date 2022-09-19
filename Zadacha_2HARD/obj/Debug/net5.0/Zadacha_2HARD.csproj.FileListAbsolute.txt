@@ -1,0 +1,16 @@
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.exe
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.deps.json
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.runtimeconfig.json
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.runtimeconfig.dev.json
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.dll
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\ref\Zadacha_2HARD.dll
+C:\Users\V\Documents\examples\Zadacha_2HARD\bin\Debug\net5.0\Zadacha_2HARD.pdb
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.csproj.AssemblyReference.cache
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.AssemblyInfoInputs.cache
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.AssemblyInfo.cs
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.dll
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\ref\Zadacha_2HARD.dll
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.pdb
+C:\Users\V\Documents\examples\Zadacha_2HARD\obj\Debug\net5.0\Zadacha_2HARD.genruntimeconfig.cache

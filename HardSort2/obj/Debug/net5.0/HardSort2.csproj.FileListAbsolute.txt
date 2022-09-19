@@ -1,0 +1,16 @@
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.csproj.AssemblyReference.cache
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.AssemblyInfoInputs.cache
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.AssemblyInfo.cs
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.exe
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.deps.json
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.runtimeconfig.json
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.runtimeconfig.dev.json
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.dll
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\ref\HardSort2.dll
+C:\Users\V\Documents\examples\HardSort2\bin\Debug\net5.0\HardSort2.pdb
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.dll
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\ref\HardSort2.dll
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.pdb
+C:\Users\V\Documents\examples\HardSort2\obj\Debug\net5.0\HardSort2.genruntimeconfig.cache

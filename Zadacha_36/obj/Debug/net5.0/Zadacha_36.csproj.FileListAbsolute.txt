@@ -1,0 +1,16 @@
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.csproj.AssemblyReference.cache
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.AssemblyInfoInputs.cache
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.AssemblyInfo.cs
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.exe
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.deps.json
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.runtimeconfig.json
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.runtimeconfig.dev.json
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.dll
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\ref\Zadacha_36.dll
+C:\Users\V\Documents\examples\Zadacha_36\bin\Debug\net5.0\Zadacha_36.pdb
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.dll
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\ref\Zadacha_36.dll
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.pdb
+C:\Users\V\Documents\examples\Zadacha_36\obj\Debug\net5.0\Zadacha_36.genruntimeconfig.cache

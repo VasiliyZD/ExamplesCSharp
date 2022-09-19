@@ -1,0 +1,16 @@
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.exe
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.deps.json
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.runtimeconfig.json
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.runtimeconfig.dev.json
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.dll
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\ref\Задача8.dll
+C:\Users\V\Documents\examples\Задача8\bin\Debug\net5.0\Задача8.pdb
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.csproj.AssemblyReference.cache
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.AssemblyInfoInputs.cache
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.AssemblyInfo.cs
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.dll
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\ref\Задача8.dll
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.pdb
+C:\Users\V\Documents\examples\Задача8\obj\Debug\net5.0\Задача8.genruntimeconfig.cache

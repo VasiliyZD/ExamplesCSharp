@@ -1,0 +1,16 @@
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.csproj.AssemblyReference.cache
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.AssemblyInfoInputs.cache
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.AssemblyInfo.cs
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.exe
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.deps.json
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.runtimeconfig.json
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.runtimeconfig.dev.json
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.dll
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\ref\PascalTrianleNew.dll
+C:\Users\V\Documents\examples\PascalTrianleNew\bin\Debug\net5.0\PascalTrianleNew.pdb
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.dll
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\ref\PascalTrianleNew.dll
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.pdb
+C:\Users\V\Documents\examples\PascalTrianleNew\obj\Debug\net5.0\PascalTrianleNew.genruntimeconfig.cache
